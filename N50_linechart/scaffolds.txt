@@ -1,0 +1,4 @@
+The total length of /home/anhvu/Github/trile_github/Zu/N50_linechart/scaffolds_1.fasta is: 3062196
+2869.9119025304594
+30397
+78
